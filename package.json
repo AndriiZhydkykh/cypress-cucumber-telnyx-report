@@ -1,0 +1,25 @@
+{
+  "name": "cypress-cucumber-telnyx",
+  "version": "2.1.0",
+  "description": "Automated test case for telnyx.",
+  "main": "index.js",
+  "scripts": {
+    "cypress:run": "npx cypress run",
+    "cypress:open": "cypress open",
+    "cypress:run:hub": "npx cypress run --config-file hubmax.config.js",
+    "cypress:open:hub": "cypress open --config-file hubmax.config.js"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Andrey Zhidkikh",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^13.0.2",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.1.5",
+    "cypress": "^10.9.0",
+    "cypress-xpath": "^2.0.1",
+    "esbuild": "^0.15.10",
+    "multiple-cucumber-html-reporter": "^3.0.1"
+  }
+}
