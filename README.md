@@ -4,7 +4,7 @@
 2. Install visual studio code
 ### In the terminal run this code:
 ```
-git clone 
+git clone https://github.com/AndryZhidkih/cypress-cucumber-telnyx-report.git
 ```
 ```
 npm i
