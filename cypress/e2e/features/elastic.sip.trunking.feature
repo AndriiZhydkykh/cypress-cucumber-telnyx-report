@@ -2,7 +2,7 @@
 Feature: Elastic SIP Trunking Page testing
 
     Background:
-        Given A user open the main page and close the cookies modal window - elastic feature
+        Given A user open the main page and close the cookies modal window
 
     Scenario: ID-4 Open "what is SIP trunking" in the frequently asked questions on the  SIP trunking page
     

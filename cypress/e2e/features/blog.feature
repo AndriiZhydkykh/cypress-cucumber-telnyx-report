@@ -2,7 +2,7 @@
 Feature:Blog Page testing
 
     Background:
-        Given A user open the main page and close the cookies modal window - blog feature
+        Given A user open the main page and close the cookies modal window
 
     Scenario: ID-14 Find the Fax APIs, the basics and benefits article on the blog page
     

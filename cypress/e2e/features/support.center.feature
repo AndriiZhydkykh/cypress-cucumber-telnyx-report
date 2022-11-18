@@ -2,7 +2,7 @@
 Feature: Testing Support center page
 
     Background:
-        Given A user open the main page and close the cookies modal window - support feature
+        Given A user open the main page and close the cookies modal window
 
     Scenario: ID-1 Find the "Getting Started in Video Room" article  in the support center
         When A user click on the support center link

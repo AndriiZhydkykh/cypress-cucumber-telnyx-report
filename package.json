@@ -1,4 +1,6 @@
+
 {
+  
   "name": "cypress-cucumber-telnyx",
   "version": "2.1.0",
   "description": "Automated test case for telnyx.",
@@ -22,4 +24,5 @@
     "esbuild": "^0.15.10",
     "multiple-cucumber-html-reporter": "^3.0.1"
   }
+  
 }

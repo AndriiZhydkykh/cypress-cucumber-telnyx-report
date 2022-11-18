@@ -2,7 +2,7 @@
 Feature:Product Page testing
 
     Background:
-        Given A user open the main page and close the cookies modal window - product feature
+        Given A user open the main page and close the cookies modal window
 
     Scenario: ID-15 Open SHAKEN/ STIR product
     

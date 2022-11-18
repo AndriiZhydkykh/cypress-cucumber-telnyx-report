@@ -2,7 +2,7 @@
 Feature:Number lookup Page testing
 
     Background:
-        Given A user open the main page and close the cookies modal window - product feature
+        Given A user open the main page and close the cookies modal window
 
     Scenario: ID-5 Open learn more about the contact center in the number-lookup page
     
